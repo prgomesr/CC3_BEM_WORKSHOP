@@ -15,10 +15,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="empresa.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.2_estilos_incporados_e_regras_css/empresa.html">
+        <entry file="file://$PROJECT_DIR$/3.4_seletores_de_tipo_classe_e_id/empresa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+            <state relative-caret-position="170">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/3.4_seletores_de_tipo_classe_e_id/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -30,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,6 +53,10 @@
         <option value="$PROJECT_DIR$/empresa.html" />
         <option value="$PROJECT_DIR$/3.1_o_que_e_css/empresa.html" />
         <option value="$PROJECT_DIR$/3.2_estilos_incporados_e_regras_css/empresa.html" />
+        <option value="$PROJECT_DIR$/3.3_estilos_em_arquivos_externos/empresa.html" />
+        <option value="$PROJECT_DIR$/3.3_estilos_em_arquivos_externos/style.css" />
+        <option value="$PROJECT_DIR$/3.4_seletores_de_tipo_classe_e_id/style.css" />
+        <option value="$PROJECT_DIR$/3.4_seletores_de_tipo_classe_e_id/empresa.html" />
       </list>
     </option>
   </component>
@@ -82,7 +97,7 @@
             <path>
               <item name="CC3_BEM_WORKSHOP" type="b2602c69:ProjectViewProjectNode" />
               <item name="CC3_BEM_WORKSHOP" type="462c0819:PsiDirectoryNode" />
-              <item name="3.1_o_que_e_css" type="462c0819:PsiDirectoryNode" />
+              <item name="3.4_seletores_de_tipo_classe_e_id" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,9 +114,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\CSS3_BEM\CC3_BEM_WORKSHOP\3.4_seletores_de_tipo_classe_e_id" />
+      <recent name="D:\Documents\GitHub\CSS3_BEM\CC3_BEM_WORKSHOP\3.3_estilos_em_arquivos_externos" />
       <recent name="D:\Documents\GitHub\CSS3_BEM\CC3_BEM_WORKSHOP\3.2_estilos_incporados_e_regras_css" />
     </key>
   </component>
@@ -130,16 +148,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520617645648</updated>
-      <workItem from="1520617647757" duration="1047000" />
+      <workItem from="1520617647757" duration="2664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1047000" />
+    <option name="totallyTimeSpent" value="2664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1346" height="688" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -201,6 +218,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.3_estilos_em_arquivos_externos/empresa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.3_estilos_em_arquivos_externos/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.4_seletores_de_tipo_classe_e_id/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.4_seletores_de_tipo_classe_e_id/empresa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>

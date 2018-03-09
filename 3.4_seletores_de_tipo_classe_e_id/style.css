@@ -1,0 +1,15 @@
+h1 {
+    font-family: "Arial Narrow";
+}
+
+h1#titulo {
+    color: darkgray;
+}
+
+p {
+    font-family: Arial;
+}
+
+.destaque{
+    color: darkred;
+}
